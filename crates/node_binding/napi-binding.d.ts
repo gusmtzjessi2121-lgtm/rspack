@@ -582,7 +582,6 @@ export declare enum BuiltinPluginName {
   EvalSourceMapDevToolPlugin = 'EvalSourceMapDevToolPlugin',
   EvalDevToolModulePlugin = 'EvalDevToolModulePlugin',
   SideEffectsFlagPlugin = 'SideEffectsFlagPlugin',
-  InnerGraphPlugin = 'InnerGraphPlugin',
   FlagDependencyExportsPlugin = 'FlagDependencyExportsPlugin',
   FlagDependencyUsagePlugin = 'FlagDependencyUsagePlugin',
   InlineExportsPlugin = 'InlineExportsPlugin',
