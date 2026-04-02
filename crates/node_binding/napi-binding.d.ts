@@ -2483,7 +2483,7 @@ importMetaResolve?: boolean
  * This option is experimental in Rspack only and subject to change or be removed anytime.
  * @experimental
  */
-sideEffectsFree?: Array<string>
+pureFunctions?: Array<string>
 }
 
 export interface RawJsonGeneratorOptions {
